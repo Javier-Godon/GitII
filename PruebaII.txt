@@ -1,2 +1,0 @@
-Línea inicial para add y commit
-Segunda línea a Staging pero sin commit
